@@ -1,0 +1,11 @@
+{
+  "invoice_number": "",
+  "invoice_date": "",
+  "total": "",
+  "subtotal": "",
+  "tax": "",
+  "currency": "",
+  "po_number": "",
+  "vendor_name": "",
+  "buyer_name": ""
+}
