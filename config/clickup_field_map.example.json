@@ -1,0 +1,11 @@
+{
+  "invoice_number": "fld_XXXXXXXXXXXXXXXXXXXX",
+  "invoice_date": "fld_XXXXXXXXXXXXXXXXXXXX",
+  "total": "fld_XXXXXXXXXXXXXXXXXXXX",
+  "subtotal": "fld_XXXXXXXXXXXXXXXXXXXX",
+  "tax": "fld_XXXXXXXXXXXXXXXXXXXX",
+  "currency": "fld_XXXXXXXXXXXXXXXXXXXX",
+  "po_number": "fld_XXXXXXXXXXXXXXXXXXXX",
+  "vendor_name": "fld_XXXXXXXXXXXXXXXXXXXX",
+  "buyer_name": "fld_XXXXXXXXXXXXXXXXXXXX"
+}
